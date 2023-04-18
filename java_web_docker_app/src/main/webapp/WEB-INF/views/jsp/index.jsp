@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Ashok IT</a>
+			<a class="navbar-brand" href="#">Satya IT</a>
 		</div>
 	</div>
 </nav>
@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Ashok IT..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
+			<h3>Contact @ +91 - 111111 / 222222 / 333333 </h3>
 		</div>	
 	</div>
 
